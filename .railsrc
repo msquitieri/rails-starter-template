@@ -1,0 +1,4 @@
+--database=mysql
+--skip-action-cable
+--skip-coffee
+--template="./rails_template.rb"
